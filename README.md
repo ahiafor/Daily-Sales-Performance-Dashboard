@@ -1,3 +1,7 @@
+Here’s the updated README with the dashboard snapshot incorporated appropriately:
+
+---
+
 # **Sales Performance Dashboard**
 
 ## **Overview**
@@ -10,7 +14,7 @@ The **Sales Performance Dashboard** is a comprehensive yet simple tool designed 
    - View sales performance on a daily basis.
    - Understand fluctuations in sales volume.
 
-2. **Top Products and Categories**:
+2. **Top Products and Brands**:
    - Identify the best-performing products and categories driving revenue.
    - Highlight areas for potential upselling or marketing focus.
 
@@ -28,6 +32,14 @@ The **Sales Performance Dashboard** is a comprehensive yet simple tool designed 
 
 ---
 
+## **Dashboard Snapshot**
+
+Below is a snapshot of the first page of the Sales Performance Dashboard:
+
+![Sales Performance Dashboard](https://github.com/user-attachments/assets/b6a760be-f8a4-4bad-9707-3737dce0155a)
+
+---
+
 ## **Dashboard Objectives**
 - Provide real-time visibility into sales metrics.
 - Highlight actionable insights for improving sales strategies.
@@ -42,7 +54,7 @@ The **Sales Performance Dashboard** is a comprehensive yet simple tool designed 
 
 2. **Understanding the Key Metrics**:
    - **Daily Sales**: Displays sales achieved for the current day.
-   - **Best-Selling Brands**: Lists Brands with the highest revenue.
+   - **Best-Selling Products**: Lists products with the highest revenue.
    - **Branch Comparisons**: Ranks branches by sales performance.
    - **Sales Trends**: Shows patterns to help with forecasting.
 
@@ -53,5 +65,3 @@ The **Sales Performance Dashboard** is a comprehensive yet simple tool designed 
    - Use the "Target vs. Actual" section to review if sales targets are being met.
 
 ---
-
-
